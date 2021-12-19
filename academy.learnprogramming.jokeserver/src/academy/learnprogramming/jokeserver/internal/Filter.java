@@ -1,4 +1,5 @@
 package academy.learnprogramming.jokeserver.internal;
+
 public class Filter {
 	
 	// assume that this method does some sort of filtering of the joke

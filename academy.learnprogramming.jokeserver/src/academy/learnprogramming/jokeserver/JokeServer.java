@@ -1,6 +1,5 @@
 package academy.learnprogramming.jokeserver;
 
-import java.util.logging.*;
 import java.util.List;
 import academy.learnprogramming.jokeserver.internal.Filter;
 /**
